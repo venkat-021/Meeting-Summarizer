@@ -1,0 +1,20 @@
+User Uploads Audio
+    ↓
+Audio Processing Pipeline
+    ├── 🎙️ Whisper STT 
+    ├── 👥 PyAnnote Diarization  
+    ├── 😊 SpeechBrain Emotion 
+    ├── 🤖 Custom Authenticity Detection 
+    └── 📄 Content Classification 
+    ↓
+Intelligence Layer
+    ├── 📝 Gemini Summarization 
+    ├── 📊 Analytics Engine 
+    ├── ⚠️ Alert System 
+    └── 📅 Calendar Detection 
+    ↓
+Beautiful Frontend Dashboard
+    ├── 🎨 Interactive Visualizations
+    ├── 📋 Organized Results Tabs
+    ├── 📤 Multi-format Export
+    └── ⚙️ User Settings
